@@ -1,0 +1,15 @@
+.spandan {
+  color: #003366; /* Dark blue, similar to image */
+   font-size: 28px;  /* Adjust as needed */
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
+.hospital {
+  color: #00BFD8; /* Cyan/teal shade */
+   font-size: 28px;  /* Adjust as needed */
+  font-weight: 700;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
